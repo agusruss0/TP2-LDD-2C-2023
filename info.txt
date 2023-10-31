@@ -27,3 +27,9 @@ Remaining columns are pixel numbers (784 total).
 Each value is the darkness of the pixel (1 to 255)
 
 no es necesario armar las imagenes lo hace solo el algoritmo
+
+hay 6000 muestras de cada prenda, por lo que esta balanceado
+
+se puede usar el test set de kaggle para testear??
+
+problema de multisalida??
