@@ -30,6 +30,11 @@ no es necesario armar las imagenes lo hace solo el algoritmo
 
 hay 6000 muestras de cada prenda, por lo que esta balanceado
 
-se puede usar el test set de kaggle para testear??
+se puede usar el test set de kaggle para testear
 
-problema de multisalida??
+
+
+Funciones armadas:
+    - mostrarImagen: devuelve una imagen dentro de la clase seleccionada
+    - imagenPromedio: devuelve la imagen promedio de una clase
+    - graficoDistribucionDeClase: nos devuelve un mapeo de frecuencias de cuales c
