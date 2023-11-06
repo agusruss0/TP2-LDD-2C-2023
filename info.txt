@@ -43,4 +43,4 @@ Funciones armadas:
     - calibrarModelo
 
     kfold en el 2?
-    
+    esta bien como esta planteado el dos en cuanto a los hiperparametros
