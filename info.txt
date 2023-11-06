@@ -38,3 +38,9 @@ Funciones armadas:
     - mostrarImagen: devuelve una imagen dentro de la clase seleccionada
     - imagenPromedio: devuelve la imagen promedio de una clase
     - graficoDistribucionDeClase: nos devuelve un mapeo de frecuencias de cuales c
+    - validacionCruzada:
+    - testarModelo:
+    - calibrarModelo
+
+    kfold en el 2?
+    
