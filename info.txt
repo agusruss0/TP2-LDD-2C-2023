@@ -42,5 +42,6 @@ Funciones armadas:
     - testarModelo:
     - calibrarModelo
 
-    kfold en el 2?
-    esta bien como esta planteado el dos en cuanto a los hiperparametros
+kfold en el 2?
+esta bien como esta planteado el dos en cuanto a los hiperparametros
+como selecciono el mejor modelo segun el k fold y los hiperparametros
