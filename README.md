@@ -5,11 +5,17 @@ Este trabajo consistio en analiza en una primera instancia como se distribuian l
 
 Luego armamos un modelo de clasificacion KNN el cual separa entre remeras y pantalones entrenandolo con solo 4 pixeles de cada muestra del 80% del dataset.
 
-Tambien armanmos un modelo de Arbol de Clasficacion el cual clasifica entre todos los tipos de prendas usando todos los pixeles de cada muestra.
+Tambien armamos un modelo de Arbol de Clasficacion el cual clasifica entre todos los tipos de prendas usando todos los pixeles de cada muestra.
 
 Las bibliotecas que utilizamos son:
 
 `pandas`,`numpy`,`matplotlib.pyplot`,`seaborn`,`sklearn.neighbors`.
+
+El archivo `TP2-fashion-minst-Consigna.pdf` es la consigna del trabajo practico del cual tenemos las preguntas que organizan el TP.
+
+El archivo `TP2_Informe.pdf` es nuestro informe donde detallamos los pasos hechos y las decisiones tomadas, ademas de tener graficos sobre el dataset y los modelos, y las conclusiones obtenidas.
+
+El repositorio no cuenta con el dataset por cuestiones de peso ya que el mismo cuenta con 60000 muestras de 785 columnas, para descargarlo clickea [aca](https://www.kaggle.com/datasets/zalando-research/fashionmnist). Tambien en el mismo link se encuentra el dataset de testeo compuesto por otras 10000 muestras que usamos para testear los modelos una vez entrenados y calibrados
 
 # Requisitos:
 1. Instalar Python >= 3.8
