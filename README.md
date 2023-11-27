@@ -1,4 +1,4 @@
-# TP2-LDD-2C-2023 - Armado de modelos sobre el `fashion-minst` dataset
+# TP2-LDD-2C-2023 - Armado de modelos sobre el `fashion-mnist` dataset
 ## 2do Trabajo Practico de la materia Laboratorio de Datos
 
 Este trabajo consistio en analiza en una primera instancia como se distribuian los datos e identificar cuales eran los atributos mas valiosos entre las distintas clases para asi poder hacer una mejor prediccion.
@@ -11,7 +11,7 @@ Las bibliotecas que utilizamos son:
 
 `pandas`,`numpy`,`matplotlib.pyplot`,`seaborn`,`sklearn.neighbors`.
 
-El archivo `TP2-fashion-minst-Consigna.pdf` es la consigna del trabajo practico del cual tenemos las preguntas que organizan el TP.
+El archivo `TP2-fashionMNIST-Consigna.pdf` es la consigna del trabajo practico del cual tenemos las preguntas que organizan el TP.
 
 El archivo `TP2_Informe.pdf` es nuestro informe donde detallamos los pasos hechos y las decisiones tomadas, ademas de tener graficos sobre el dataset y los modelos, y las conclusiones obtenidas.
 
@@ -21,6 +21,7 @@ El repositorio no cuenta con el dataset por cuestiones de peso ya que el mismo c
 1. Instalar Python >= 3.8
 2. Instalar las bibliotecas mencionadas (Se recomienda usar Anaconda/Miniconda)
 3. Instalar las extenciones de Python y Jupyter Notebook
+4. Descargar los datasets necesarios [(aca)](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
 # Informacion del Dataset
 Extraido de [Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
